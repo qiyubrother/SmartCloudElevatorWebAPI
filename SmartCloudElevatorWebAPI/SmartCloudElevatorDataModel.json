@@ -1,0 +1,3 @@
+{
+    "mySQLConnectionString": "Server=localhost;Port=3306;Database=nnhuman.cloudelevator;uid=root;pwd=123456;SslMode=none;"
+}
